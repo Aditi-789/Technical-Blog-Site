@@ -11,13 +11,13 @@ A modern full-stack blogging platform where users can create, edit, and view tec
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React + Vite
-- **State Management**: React Hooks (useState, useEffect)
-- **Rich Text Editor**: TinyMCE
-- **Backend**: Firebase Firestore
-- **Authentication**: Firebase Auth
-- **Storage**: Firebase Storage (for thumbnails)
-- **Deployment**: Vercel
+- Frontend: React + Vite
+- State Management: React Hooks (useState, useEffect)
+- Rich Text Editor: TinyMCE
+- Backend: Firebase Firestore
+- Authentication: Firebase Auth
+- Storage: Firebase Storage (for thumbnails)
+- Deployment: Vercel
 
 ---
 
