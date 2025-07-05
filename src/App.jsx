@@ -4,11 +4,11 @@ import {
   Routes,
 } from "react-router-dom";
 import Home from "./pages/home/Home";
-import Blog from "./pages/blog/blog";
+import Blog from "./pages/blog/Blog";
 import AllBlogs from "./pages/allBlogs/AllBlogs";
-import NoPage from "./pages/noPage/NoPage";
+import NoPage from "./pages/nopage/Nopage";
 import BlogInfo from "./pages/blogInfo/BlogInfo";
-import Dashboard from "./pages/admin/dashboard/dashboard";
+import Dashboard from "./pages/admin/dashboard/Dashboard";
 import MyState from "./context/data/myState";
 import { Toaster } from "react-hot-toast";
 import CreateBlog from "./pages/admin/createBlog/createBlog";
